@@ -1,6 +1,6 @@
 # LeetCode Stats Card
 
-[![CodeFactor](https://www.codefactor.io/repository/github/jacoblincool/leetcode-stats-card/badge)](https://www.codefactor.io/repository/github/jacoblincool/leetcode-stats-card)
+[![CodeFactor](https://www.codefactor.io/repository/github/feizhai309/leetcode-stats-card/badge)](https://www.codefactor.io/repository/github/feizhai309/leetcode-stats-card)
 
 Show your dynamically generated LeetCode stats on your GitHub profile or your website!
 
@@ -30,7 +30,7 @@ Want to contribute? Feel free to open a pull request!
 Simply copy the code below, paste it into your `README.md`, and change the path to your leetcode username (case-insensitive).
 
 ```md
-![Leetcode Stats](https://leetcard.feizhai39.cool/feizhai39)
+![Leetcode Stats](https://leetcard.feizhai309.cool/feizhai309)
 ```
 
 Congratulation! You are now showing your LeetCode stats on your profile!
@@ -38,7 +38,7 @@ Congratulation! You are now showing your LeetCode stats on your profile!
 Want a hyperlink? Try this:
 
 ```md
-[![Leetcode Stats](https://leetcard.feizhai39.cool/feizhai39)](https://leetcode.com/JacobLinCool)
+[![Leetcode Stats](https://leetcard.feizhai309.cool/feizhai309)](https://leetcode.com/feizhai309)
 ```
 
 ### Endpoint
