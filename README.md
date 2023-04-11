@@ -38,7 +38,7 @@ Congratulation! You are now showing your LeetCode stats on your profile!
 Want a hyperlink? Try this:
 
 ```md
-[![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool)](https://leetcode.com/JacobLinCool)
+[![Leetcode Stats](https://leetcard.feizhai39.cool/feizhai39)](https://leetcode.com/JacobLinCool)
 ```
 
 ### Endpoint
