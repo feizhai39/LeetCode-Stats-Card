@@ -30,7 +30,7 @@ Want to contribute? Feel free to open a pull request!
 Simply copy the code below, paste it into your `README.md`, and change the path to your leetcode username (case-insensitive).
 
 ```md
-![Leetcode Stats](https://leetcard.jacoblin.cool/feizhai39)
+![Leetcode Stats](https://leetcard.feizhai39.cool/feizhai39)
 ```
 
 Congratulation! You are now showing your LeetCode stats on your profile!
