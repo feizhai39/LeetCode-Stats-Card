@@ -1,6 +1,6 @@
 # LeetCode Stats Card
 
-[![CodeFactor](https://www.codefactor.io/repository/github/feizhai309/leetcode-stats-card/badge)](https://www.codefactor.io/repository/github/feizhai309/leetcode-stats-card)
+[![CodeFactor](https://www.codefactor.io/repository/github/jacoblincool/leetcode-stats-card/badge)](https://www.codefactor.io/repository/github/jacoblincool/leetcode-stats-card)
 
 Show your dynamically generated LeetCode stats on your GitHub profile or your website!
 
@@ -147,16 +147,16 @@ Want to contribute a `nyan-cat` extension? PR is welcome!
 [![](https://leetcard.jacoblin.cool/feizhai309?ext=activity)](https://leetcard.jacoblin.cool/jacoblincool?ext=activity)
 
 ```md
-![](https://leetcard.jacoblin.cool/lapor?ext=contest)
+![](https://leetcard.jacoblin.cool/feizhai309?ext=contest)
 ```
 
-[![](https://leetcard.jacoblin.cool/lapor?ext=contest)](https://leetcard.jacoblin.cool/lapor?ext=contest)
+[![](https://leetcard.jacoblin.cool/feizhai309?ext=contest)](https://leetcard.jacoblin.cool/lapor?ext=contest)
 
 ```md
-![](https://leetcard.jacoblin.cool/lapor?ext=heatmap)
+![](https://leetcard.jacoblin.cool/feizhai309?ext=heatmap)
 ```
 
-[![](https://leetcard.jacoblin.cool/lapor?ext=heatmap)](https://leetcard.jacoblin.cool/lapor?ext=heatmap)
+[![](https://leetcard.jacoblin.cool/feizhai309?ext=heatmap)](https://leetcard.jacoblin.cool/lapor?ext=heatmap)
 
 #### `cache` (default: `60`)
 
@@ -199,50 +199,50 @@ Now we have 6 themes. If you have any great idea, please feel free to open a PR!
 #### Light
 
 ```md
-![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool?theme=light)
+![Leetcode Stats](https://leetcard.jacoblin.cool/feizhai309?theme=light)
 ```
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool?theme=light)](https://leetcard.jacoblin.cool/JacobLinCool?theme=light)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/feizhai309?theme=light)](https://leetcard.jacoblin.cool/feizhai309?theme=light)
 
 #### Dark
 
 ```md
-![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool?theme=dark)
+![Leetcode Stats](https://leetcard.jacoblin.cool/feizhai309?theme=dark)
 ```
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool?theme=dark)](https://leetcard.jacoblin.cool/JacobLinCool?theme=dark)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/feizhai309?theme=dark)](https://leetcard.jacoblin.cool/feizhai309?theme=dark)
 
 #### Nord
 
 ```md
-![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool?theme=nord)
+![Leetcode Stats](https://leetcard.jacoblin.cool/feizhai309?theme=nord)
 ```
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool?theme=nord)](https://leetcard.jacoblin.cool/JacobLinCool?theme=nord)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/Jfeizhai309?theme=nord)](https://leetcard.jacoblin.cool/feizhai309?theme=nord)
 
 #### Forest
 
 ```md
-![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool?theme=forest)
+![Leetcode Stats](https://leetcard.jacoblin.cool/feizhai309?theme=forest)
 ```
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool?theme=forest)](https://leetcard.jacoblin.cool/JacobLinCool?theme=forest)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/feizhai309?theme=forest)](https://leetcard.jacoblin.cool/feizhai309?theme=forest)
 
 #### WTF
 
 ```md
-![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool?theme=wtf)
+![Leetcode Stats](https://leetcard.jacoblin.cool/feizhai309?theme=wtf)
 ```
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool?theme=wtf)](https://leetcard.jacoblin.cool/JacobLinCool?theme=wtf)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/feizhai309?theme=wtf)](https://leetcard.jacoblin.cool/feizhai309?theme=wtf)
 
 #### Unicorn
 
 ```md
-![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool?theme=unicorn)
+![Leetcode Stats](https://leetcard.jacoblin.cool/feizhai309?theme=unicorn)
 ```
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool?theme=unicorn)](https://leetcard.jacoblin.cool/JacobLinCool?theme=unicorn)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/feizhai309?theme=unicorn)](https://leetcard.jacoblin.cool/feizhai309?theme=unicorn)
 
 ### Fonts
 
@@ -253,26 +253,26 @@ Some examples:
 #### Milonga
 
 ```md
-![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool?font=milonga)
+![Leetcode Stats](https://leetcard.jacoblin.cool/feizhai309?font=milonga)
 ```
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool?font=milonga)](https://leetcard.jacoblin.cool/JacobLinCool?font=milonga)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/feizhai309?font=milonga)](https://leetcard.jacoblin.cool/feizhai309?font=milonga)
 
 #### Patrick Hand
 
 ```md
-![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool?font=patrick_hand)
+![Leetcode Stats](https://leetcard.jacoblin.cool/feizhai309?font=patrick_hand)
 ```
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool?font=patrick_hand)](https://leetcard.jacoblin.cool/JacobLinCool?font=patrick_hand)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/feizhai309?font=patrick_hand)](https://leetcard.jacoblin.cool/feizhai309?font=patrick_hand)
 
 #### Ruthie
 
 ```md
-![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool?font=ruthie)
+![Leetcode Stats](https://leetcard.jacoblin.cool/feizhai309?font=ruthie)
 ```
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool?font=ruthie)](https://leetcard.jacoblin.cool/JacobLinCool?font=ruthie)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/feizhai309?font=ruthie)](https://leetcard.jacoblin.cool/feizhai309?font=ruthie)
 
 ### Extensions
 
@@ -289,27 +289,27 @@ Want to contribute a `nyan-cat` extension? PR is welcome!
 Show your recent submissions.
 
 ```md
-![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool?ext=activity)
+![Leetcode Stats](https://leetcard.jacoblin.cool/feizhai309?ext=activity)
 ```
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool?ext=activity)](https://leetcard.jacoblin.cool/JacobLinCool?ext=activity)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool?ext=activity)](https://leetcard.jacoblin.cool/feizhai309?ext=activity)
 
 #### `contest`
 
 Show your contest rating history.
 
 ```md
-![Leetcode Stats](https://leetcard.jacoblin.cool/lapor?ext=contest)
+![Leetcode Stats](https://leetcard.jacoblin.cool/feizhai309?ext=contest)
 ```
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/lapor?ext=contest)](https://leetcard.jacoblin.cool/lapor?ext=contest)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/lapor?ext=contest)](https://leetcard.jacoblin.cool/feizhai309?ext=contest)
 
 #### `heatmap`
 
 Show heatmap in the past 52 weeks.
 
 ```md
-![Leetcode Stats](https://leetcard.jacoblin.cool/lapor?ext=heatmap)
+![Leetcode Stats](https://leetcard.jacoblin.cool/feizhai309?ext=heatmap)
 ```
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/lapor?ext=heatmap)](https://leetcard.jacoblin.cool/lapor?ext=heatmap)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/lapor?ext=heatmap)](https://leetcard.jacoblin.cool/feizhai309?ext=heatmap)
